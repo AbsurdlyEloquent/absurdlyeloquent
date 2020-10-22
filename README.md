@@ -1,6 +1,6 @@
 # Hi there 👋 Welcome to the README.md
 
-- 🔭 I’m currently working on: An app to replace the 13 year old software in my car
+- 🔭 I’m currently working on: An app to replace the 8 year old software in my car
 - 🌱 I’m currently learning: ElectronJS
 - 💬 Ask me about: Why Scratch is better than JavaScript (just kidding)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/absurdly-eloquent/) | [Email](mailto:ethan.henderson397@gmail.com)
