@@ -5,8 +5,8 @@
 ### GetTicket.net
 A static HTML/CSS website to showcase responsive design
 
-- [Repo](github.com/absurdlyeloquent/responsive-website)
-- [Live](absurdlyeloquent.github.io/responsive-website)
+- [Repo](http://github.com/absurdlyeloquent/responsive-website)
+- [Live](http://absurdlyeloquent.github.io/responsive-website)
 
 <!--
 **AbsurdlyEloquent/absurdlyeloquent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
